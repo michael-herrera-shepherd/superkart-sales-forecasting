@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project: forecasting product-store sales for a four-store retail chain, then serving the model through a REST API and an interactive web app.
 
-**Live app:** LIVE_APP_URL
+**Live app:** [LIVE_APP_URL](https://superkart-forecast.streamlit.app/)
 *(The API runs on a free server that sleeps when idle, so the first forecast may take about a minute.)*
 
 ## Problem
